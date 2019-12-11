@@ -1,10 +1,10 @@
 Meu repositorio local: C:\xampp\htdocs\projetosite\modulogit
 
 Para adicionar diretorio do GIT:
-	git remote add origin (URL do GIT)
+	git remote add origin -u (URL do GIT)
 
 Para atualizar meu projeto do git:
-	git push -u origin MASTER
+	git push origin MASTER
 
 É Obrigatório o uso do Commit antes do envio para WEB pois é através do commit que voltamos a versão
 
