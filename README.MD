@@ -14,3 +14,4 @@ git revert: Me ajuda a voltar as alterações sem perder o commit
 Para voltar o commit, digito git log, copio o endereço do commit e dou o comando: git revert --no-edit + Endereço do Commit
 
 O Comando git checkout me envia para o branch que eu quiser
+(Atualizando para teste no Github)
