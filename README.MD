@@ -3,3 +3,5 @@ Para adicionar diretorio do GIT:
 
 Para atualizar meu projeto do git:
 	git push -u origin MASTER
+
+É Obrigatório o uso do Commit antes do envio para WEB
