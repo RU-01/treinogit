@@ -1,5 +1,5 @@
-Alteração total para teste após git hub
+Para adicionar diretorio do GIT:
+	git remote add origin (URL do GIT)
 
-Alterando para um segundo teste
-
-Testando revert
+Para puxar meu projeto do git:
+	git push -u origin MASTER
